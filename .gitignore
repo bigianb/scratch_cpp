@@ -1,0 +1,5 @@
+temp
+*.opendb
+*.db
+Debug
+Release
