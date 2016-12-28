@@ -6,10 +6,10 @@ class dropper
 	: nana::noncopyable
 {
 public:
-	dropper();
-	~dropper();
+	dropper() {}
+	~dropper() {}
 
-	void trigger(window);
+	void trigger(nana::window);
 
 };
 
